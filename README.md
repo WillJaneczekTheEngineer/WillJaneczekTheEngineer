@@ -1,16 +1,22 @@
-## Hi there 👋
+# Will Janeczek, P.Eng
 
-<!--
-**WillJaneczekTheEngineer/WillJaneczekTheEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems & Software Integration Engineer specializing in mission-critical, regulated, and hardware/software systems.
 
-Here are some ideas to get you started:
+### Professional Background
+- P.Eng. with experience in medical devices, radiation/isotope systems, GIS/LiDAR, and real-time embedded applications.
+- Strong track record in software integration, verification & validation, field commissioning, and regulated environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Writing & Project Details
+I maintain war stories, lessons learned, and technical overviews from various projects.  
+
+**Due to the sensitive and regulated nature of much of my work (NDAs, medical device compliance, patient safety systems, etc.), I do not publish full project details or code publicly.**
+
+If you're a recruiter, hiring manager, or collaborator interested in learning more, please feel free to reach out via email:
+
+**📧 will.janeczek@gmail.com**
+
+Happy to share relevant examples, discuss specific experience, or provide references under appropriate context.
+
+---
+
+*Ottawa, ON | Systems Integration | Regulated Environments | Embedded + Cloud*
